@@ -17,12 +17,8 @@ color: black;
 display: flex;
 justify-content: center;
 }
-div{ 
-  style-position: relative; width: 200px; height: 100px; border: 1px solid black;">
-  h1 {list-style-position: top; absolute; top: 20px; left: 30px}
+
 h2{ 
-  border-top: solid 20px;
-  padding-top: 20px;
 font-size:small;
 font-display: flex;
 text-align: center;
