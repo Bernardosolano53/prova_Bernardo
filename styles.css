@@ -12,31 +12,36 @@ header{
 
 border-bottom: solid 5px ;
 padding: 20px;
-font-size: 50px;
+font-size: 70px;
 color: black;
 display: flex;
 justify-content: center;
 }
+h1{
+font-size: 50px;
+justify-content: center;
+
+}
 
 h2{ 
-font-size:small;
+font-size:20px;
 font-display: flex;
-text-align: center;
-
+justify-content: center;
 }
 section{
 background: rgb(71, 125, 224);
-padding-bottom: 80px;
-padding-top: 80px;
-display: flex;
+display: block;
 justify-content: center;
 }
-div{
-margin-right: 20px;
+.texto2{
+
+display: block;
+justify-content: center;
+}
+img{ 
+height: 300px;
+size: 50px;
+  align-items: center;
+  align-content: center;
 
 }
-.chamada-texto{   
-padding-bottom: 200px;
-
-}
-img{ image.png}
